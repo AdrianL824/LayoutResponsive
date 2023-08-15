@@ -31,3 +31,9 @@
 .llamada__boton {
     width: 100%;
 }
+
+@media screen and (min-width: 700px) {
+    .llamada__texto{
+        max-width: 600px;
+    }
+}
